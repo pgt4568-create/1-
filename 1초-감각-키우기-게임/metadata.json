@@ -1,0 +1,6 @@
+{
+  "name": "1초 감각 키우기 게임",
+  "description": "초등학교 3학년 학생들을 위한 시간 감각(1초~30초) 학습용 타이머 감각 게임입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
